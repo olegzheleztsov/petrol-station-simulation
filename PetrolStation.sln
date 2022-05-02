@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolStation.Worker", "PetrolStation.Worker\PetrolStation.Worker.csproj", "{231661B2-B794-4BB6-9F80-55C0126FD221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolStation.Data", "PetrolStation.Data\PetrolStation.Data.csproj", "{F19B8443-ECF3-44D3-9829-0ED04EAB976E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetrolStation.Ui", "PetrolStation.Ui\PetrolStation.Ui.csproj", "{6AC600D5-B9AC-455D-9E0E-8CC0DEC89FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231661B2-B794-4BB6-9F80-55C0126FD221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231661B2-B794-4BB6-9F80-55C0126FD221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231661B2-B794-4BB6-9F80-55C0126FD221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231661B2-B794-4BB6-9F80-55C0126FD221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19B8443-ECF3-44D3-9829-0ED04EAB976E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19B8443-ECF3-44D3-9829-0ED04EAB976E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19B8443-ECF3-44D3-9829-0ED04EAB976E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19B8443-ECF3-44D3-9829-0ED04EAB976E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AC600D5-B9AC-455D-9E0E-8CC0DEC89FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC600D5-B9AC-455D-9E0E-8CC0DEC89FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC600D5-B9AC-455D-9E0E-8CC0DEC89FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC600D5-B9AC-455D-9E0E-8CC0DEC89FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
